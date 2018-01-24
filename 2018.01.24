@@ -1,2 +1,3 @@
 2018.1.24 反序列化；了解了spark运行图；又看了一遍环境变量，就是你运行一个360，它帮你找到360的安装目录；汤姆猫没搞定；正在看服务器、容器、应用服务器、
-反向代理的区别http://www.cnblogs.com/vipyoumay/archive/2017/08/31/7455431.html，这个写的不错；
+反向代理的区别http://www.cnblogs.com/vipyoumay/archive/2017/08/31/7455431.html，这个写的不错；现在项目用的websphere里面有框架，
+是容器也是应用服务器；
